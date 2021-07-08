@@ -1,4 +1,5 @@
 # Awesome MAUI
+<img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" align="right" width="170">
 
 > A collection of awesome MAUI resources
 
@@ -33,10 +34,7 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 
 ## Hello World
 
-[![GitHub issues](https://img.shields.io/github/issues/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples) [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/maui-samples?style=flat-square)
-
-* [Hello Android](https://github.com/dotnet/maui-samples/tree/main/HelloAndroid) - Simple Hello World application for the Android platform.
-* [Hello MAUI](https://github.com/dotnet/maui-samples/tree/main/HelloMaui) - Simple Hello World application for the iOS, Android, and Mac platform.
+* [Hello MAUI](https://github.com/dotnet/maui-samples/tree/main/HelloMaui) [![GitHub issues](https://img.shields.io/github/issues/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples) [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/maui-samples?style=flat-square) - Simple Hello World application for the iOS, Android, and Mac platform.
 
 ## Sample Apps
 
