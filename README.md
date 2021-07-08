@@ -1,5 +1,5 @@
 # Awesome MAUI
-<img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" align="right" width="170">
+<img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" align="right" width="170" style="transform: scaleX(-1);">
 
 > A collection of awesome MAUI resources
 
