@@ -10,6 +10,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Introduction](#introduction)
 * [General](#general)
 * [Hello World](#hello-world)
+* [Sample Apps](#sample-apps)
 * [UI](#ui)
 * [Miscellaneous Samples](#miscellaneous-samples)
 
@@ -37,14 +38,15 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 * [Hello Android](https://github.com/dotnet/maui-samples/tree/main/HelloAndroid) - Simple Hello World application for the Android platform.
 * [Hello MAUI](https://github.com/dotnet/maui-samples/tree/main/HelloMaui) - Simple Hello World application for the iOS, Android, and Mac platform.
 
+## Sample Apps
+
+* [MAUI Chat](https://github.com/matt-goldman/maui-chat) [![GitHub issues](https://img.shields.io/github/issues/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat) [![GitHub stars](https://img.shields.io/github/stars/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat/stargazers) ![last commit](https://img.shields.io/github/last-commit/matt-goldman/maui-chat?style=flat-square) - A simple chat app using SignalR, MAUI and Blazor.
+
 ## UI
 
 * [DevExpress Date Grid](https://github.com/DevExpress-Examples/maui-data-grid-examples) [![GitHub issues](https://img.shields.io/github/issues/DevExpress-Examples/maui-data-grid-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-data-grid-examples/issues) [![GitHub stars](https://img.shields.io/github/stars/DevExpress-Examples/maui-data-grid-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-data-grid-examples/stargazers) ![last commit](https://img.shields.io/github/last-commit/DevExpress-Examples/maui-data-grid-examples?style=flat-square) - The DevExpress ChartView for for .NET MAUI Preview 5 can visualize data in the Cartesian coordinate system as areas, bars, points, bubbles, lines, and other forms.
-
 * [DevExpress Cartesian Chart](https://github.com/DevExpress-Examples/maui-chart-examples/tree/21.2.1+/CS/ChartViewExample) [![GitHub issues](https://img.shields.io/github/issues/DevExpress-Examples/maui-chart-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-chart-examples/issues) [![GitHub stars](https://img.shields.io/github/stars/DevExpress-Examples/maui-chart-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-chart-examples/stargazers) ![last commit](https://img.shields.io/github/last-commit/DevExpress-Examples/maui-chart-examples?style=flat-square) - The DevExpress ChartView for for .NET MAUI Preview 5 can visualize data in the Cartesian coordinate system as areas, bars, points, bubbles, lines, and other forms.
-
 * [DevExpress Pie Chart](https://github.com/DevExpress-Examples/maui-chart-examples/tree/21.2.1+/CS/PieChartExample) [![GitHub issues](https://img.shields.io/github/issues/DevExpress-Examples/maui-chart-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-chart-examples/issues) [![GitHub stars](https://img.shields.io/github/stars/DevExpress-Examples/maui-chart-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-chart-examples/stargazers) ![last commit](https://img.shields.io/github/last-commit/DevExpress-Examples/maui-chart-examples?style=flat-square) - The DevExpress Pie Chart for .NET MAUI Preview 5 visualizes data as a circle chart divided into slices to illustrate numerical proportion.
-
 * [Microsoft MAUI Graphics](https://github.com/dotnet/Microsoft.Maui.Graphics) [![GitHub issues](https://img.shields.io/github/issues/dotnet/Microsoft.Maui.Graphics?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics/issues) [![GitHub stars](https://img.shields.io/github/stars/dotnet/Microsoft.Maui.Graphics?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/Microsoft.Maui.Graphics?style=flat-square)  - Microsoft.Maui.Graphics is a cross-platform graphics library for iOS, Android, Windows, macOS, Tizen and Linux completely in C#. 
 * [Microsoft MAUI Graphics Controls](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls) [![GitHub issues](https://img.shields.io/github/issues/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls) [![GitHub stars](https://img.shields.io/github/stars/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square) - Microsoft.Maui.Graphics.Controls is a .NET MAUI experiment that offers drawn controls allowing to choose between Cupertino, Fluent and Material.
 
