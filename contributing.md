@@ -14,3 +14,19 @@ Please ensure your pull request adheres to the following:
 - This is not meant to be used as a list to advertise your own assets. Free or open-source assets should be prioritized over paid assets if they are of similar quality and feature sets.
 
 Thanks!
+
+## Badge Templates
+
+Coppy the following URLs and replace {username} with the correct GitHub username and {repo} with the repository you are submitting.
+
+### GH issue badge
+
+\[!\[GitHub issues\]\(https://img.shields.io/github/issues/{username}/{repo}?style=flat-square)](https://github.com/{username}/{repo}) 
+
+### GH stars badge
+
+\[!\[GitHub stars\]\(https://img.shields.io/github/stars/{username}/{repo}?style=flat-square)](https://github.com/{username}/{repo}/stargazers) 
+
+### GH last commit badge
+
+\!\[last commit\]\(https://img.shields.io/github/last-commit/{username}/{repo}?style=flat-square)
