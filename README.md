@@ -13,6 +13,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Hello World](#hello-world)
 * [Sample Apps](#sample-apps)
 * [UI](#ui)
+* [GPS](#gps)
 * [Miscellaneous Samples](#miscellaneous-samples)
 
 ## Introduction
@@ -47,8 +48,11 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 * [DevExpress Pie Chart](https://github.com/DevExpress-Examples/maui-chart-examples/tree/21.2.1+/CS/PieChartExample) [![GitHub issues](https://img.shields.io/github/issues/DevExpress-Examples/maui-chart-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-chart-examples/issues) [![GitHub stars](https://img.shields.io/github/stars/DevExpress-Examples/maui-chart-examples?style=flat-square)](https://github.com/DevExpress-Examples/maui-chart-examples/stargazers) ![last commit](https://img.shields.io/github/last-commit/DevExpress-Examples/maui-chart-examples?style=flat-square) - The DevExpress Pie Chart for .NET MAUI Preview 5 visualizes data as a circle chart divided into slices to illustrate numerical proportion.
 * [Microsoft MAUI Graphics](https://github.com/dotnet/Microsoft.Maui.Graphics) [![GitHub issues](https://img.shields.io/github/issues/dotnet/Microsoft.Maui.Graphics?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics/issues) [![GitHub stars](https://img.shields.io/github/stars/dotnet/Microsoft.Maui.Graphics?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/Microsoft.Maui.Graphics?style=flat-square)  - Microsoft.Maui.Graphics is a cross-platform graphics library for iOS, Android, Windows, macOS, Tizen and Linux completely in C#. 
 * [Microsoft MAUI Graphics Controls](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls) [![GitHub issues](https://img.shields.io/github/issues/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls) [![GitHub stars](https://img.shields.io/github/stars/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square) - Microsoft.Maui.Graphics.Controls is a .NET MAUI experiment that offers drawn controls allowing to choose between Cupertino, Fluent and Material.
-
 * [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui) - [![GitHub issues](https://img.shields.io/github/issues/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui) [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/stargazers) ![last commit](https://img.shields.io/github/last-commit/CommunityToolkit/Maui?style=flat-square) - The .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that people tend to replicate across multiple apps.
+
+## GPS
+
+* [Kayak Track](https://github.com/richross/KayakTrack) - [![GitHub issues](https://img.shields.io/github/issues/richross/KayakTrack?style=flat-square)](https://github.com/richross/KayakTrack) [![GitHub stars](https://img.shields.io/github/stars/richross/KayakTrack?style=flat-square)](https://github.com/richross/KayakTrack/stargazers) ![last commit](https://img.shields.io/github/last-commit/richross/KayakTrack?style=flat-square) - Application for tracking kayak movements using GPS on a mobile application. 
 
 ## Miscellaneous Samples
 
