@@ -40,6 +40,7 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 ## Sample Apps
 
 * [MAUI Chat](https://github.com/matt-goldman/maui-chat) [![GitHub issues](https://img.shields.io/github/issues/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat) [![GitHub stars](https://img.shields.io/github/stars/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat/stargazers) ![last commit](https://img.shields.io/github/last-commit/matt-goldman/maui-chat?style=flat-square) - A simple chat app using SignalR, MAUI and Blazor.
+<!--* [Bird Atlas](https://github.com/AppCreativity/BirdAtlas) [![GitHub issues](https://img.shields.io/github/issues/AppCreativity/BirdAtlas?style=flat-square)](https://github.com/AppCreativity/BirdAtlas) [![GitHub stars](https://img.shields.io/github/stars/AppCreativity/BirdAtlas?style=flat-square)](https://github.com/AppCreativity/BirdAtlas/stargazers) ![last commit](https://img.shields.io/github/last-commit/AppCreativity/BirdAtlas?style=flat-square) - Bird Atlas app.-->
 
 ## UI
 
