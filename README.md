@@ -13,7 +13,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Hello World](#hello-world)
 * [Sample Apps](#sample-apps)
 * [UI](#ui)
-* [Miscellaneous Samples](#miscellaneous-samples)
+* [Miscellaneous](#miscellaneous)
 
 ## Introduction
 
@@ -39,6 +39,7 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 ## Sample Apps
 
 * [MAUI Chat](https://github.com/matt-goldman/maui-chat) [![GitHub issues](https://img.shields.io/github/issues/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat) [![GitHub stars](https://img.shields.io/github/stars/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat/stargazers) ![last commit](https://img.shields.io/github/last-commit/matt-goldman/maui-chat?style=flat-square) - A simple chat app using SignalR, MAUI and Blazor.
+* [Hacker News](https://github.com/brminnick/HackerNews) [![GitHub issues](https://img.shields.io/github/issues/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews) [![GitHub stars](https://img.shields.io/github/stars/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/stargazers) ![last commit](https://img.shields.io/github/last-commit/brminnick/HackerNews?style=flat-square) - A .NET MAUI app for displaying the top posts on Hacker News.
 <!--* [Bird Atlas](https://github.com/AppCreativity/BirdAtlas) [![GitHub issues](https://img.shields.io/github/issues/AppCreativity/BirdAtlas?style=flat-square)](https://github.com/AppCreativity/BirdAtlas) [![GitHub stars](https://img.shields.io/github/stars/AppCreativity/BirdAtlas?style=flat-square)](https://github.com/AppCreativity/BirdAtlas/stargazers) ![last commit](https://img.shields.io/github/last-commit/AppCreativity/BirdAtlas?style=flat-square) - Bird Atlas app.-->
 
 ## UI
@@ -51,7 +52,7 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 * [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui) - [![GitHub issues](https://img.shields.io/github/issues/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui) [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/stargazers) ![last commit](https://img.shields.io/github/last-commit/CommunityToolkit/Maui?style=flat-square) - The .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that people tend to replicate across multiple apps.
 * [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - [![GitHub issues](https://img.shields.io/github/issues/beto-rodriguez/LiveCharts2?style=flat-square)](https://github.com/beto-rodriguez/LiveCharts2) [![GitHub stars](https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=flat-square)](https://github.com/beto-rodriguez/LiveCharts2/stargazers) ![last commit](https://img.shields.io/github/last-commit/beto-rodriguez/LiveCharts2?style=flat-square) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 
-## Miscellaneous Samples
+## Miscellaneous
 
 * [Weather '21](https://github.com/davidortinau/WeatherTwentyOne/) - [![GitHub issues](https://img.shields.io/github/issues/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOnes) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) ![last commit](https://img.shields.io/github/last-commit/davidortinau/WeatherTwentyOne?style=flat-square) - Microsoft Build 2021 showcase app.
 
