@@ -65,5 +65,5 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 ## Miscellaneous
 
 * [Weather '21](https://github.com/davidortinau/WeatherTwentyOne/) - [![GitHub issues](https://img.shields.io/github/issues/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOnes) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) ![last commit](https://img.shields.io/github/last-commit/davidortinau/WeatherTwentyOne?style=flat-square) - Microsoft Build 2021 showcase app.
-
+* [Dotnet Podcast](https://github.com/microsoft/dotnet-podcasts/tree/main/src) - [![GitHub issues](https://img.shields.io/github/issues/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts) [![GitHub stars](https://img.shields.io/github/stars/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts/stargazers) ![last commit](https://img.shields.io/github/last-commit/microsoft/dotnet-podcasts?style=flat-square) - .NET 6 reference application shown at .NET Conf 2021
 
