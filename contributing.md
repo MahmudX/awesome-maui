@@ -30,3 +30,5 @@ Coppy the following URLs and replace {username} with the correct GitHub username
 ### GH last commit badge
 
 \!\[last commit\]\(https://img.shields.io/github/last-commit/{username}/{repo}?style=flat-square)
+
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
