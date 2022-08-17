@@ -8,10 +8,7 @@
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/MahmudX/awesome-maui/blob/main/contributing.md) page first.
 
 
-<h1>Notice:</h1>
-<p style="color:red;">
-.NET MAUI will continue releasing previews monthly as they make their way to a release candidate (RC) in the first quarter of 2022, and general availability (GA) in the second quarter of 2022.
-</p>  
+ 
 <hr/>
 
 
