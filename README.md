@@ -6,8 +6,6 @@
 .NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/MahmudX/awesome-maui/blob/main/contributing.md) page first.
-
-
  
 <hr/>
 
@@ -15,7 +13,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Hello World](#hello-world)
 * [Plugins](#plugins)
 * [UI](#ui)
 * [Sample Apps](#sample-apps)
@@ -30,6 +27,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 To get started with MAUI, follow the instructions in the [MAUI Get Started](https://docs.microsoft.com/en-us/dotnet/maui/) documentation.
 
+**Notable mention -** 
+* [Javier Suárez](https://github.com/jsuarezruiz)'s [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui)
+* Microsoft's official sample repository - [Maui Samples](https://github.com/dotnet/maui-samples/) 
+
 ## General
 
 * [.NET MAUI Blog(s)](https://devblogs.microsoft.com/dotnet/category/net-maui/) - Microsoft's Official Dev blog
@@ -37,10 +38,6 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 * [MAUI Check Tool](https://github.com/Redth/dotnet-maui-check) [![GitHub issues](https://img.shields.io/github/issues/Redth/dotnet-maui-check?style=flat-square)](https://github.com/Redth/dotnet-maui-check) [![GitHub stars](https://img.shields.io/github/stars/Redth/dotnet-maui-check?style=flat-square)](https://github.com/Redth/dotnet-maui-check/stargazers) ![last commit](https://img.shields.io/github/last-commit/Redth/dotnet-maui-check?style=flat-square) - .NET MAUI Check tool.
 * [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui) [![GitHub issues](https://img.shields.io/github/issues/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui) [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/stargazers) ![last commit](https://img.shields.io/github/last-commit/CommunityToolkit/Maui?style=flat-square) - A collection of common elements for development with .NET MAUI.
 * [Xamarin Forms to .NET MAUI](https://github.com/jsuarezruiz/xamarin-forms-to-net-maui) [![GitHub issues](https://img.shields.io/github/issues/jsuarezruiz/xamarin-forms-to-net-maui?style=flat-square)](https://github.com/jsuarezruiz/xamarin-forms-to-net-maui) [![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/xamarin-forms-to-net-maui?style=flat-square)](https://github.com/jsuarezruiz/xamarin-forms-to-net-maui/stargazers) ![last commit](https://img.shields.io/github/last-commit/jsuarezruiz/xamarin-forms-to-net-maui?style=flat-square) - This repository is a compilation with documentation, examples and tips when converting code from Xamarin.Forms to .NET MAUI.
-
-## Hello World
-
-* [Hello MAUI](https://github.com/dotnet/maui-samples/tree/main/HelloMaui) [![GitHub issues](https://img.shields.io/github/issues/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples) [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples/stargazers) ![last commit](https://img.shields.io/github/last-commit/dotnet/maui-samples?style=flat-square) - Simple Hello World application for the iOS, Android, and Mac platform.
 
 ## Plugins
 
@@ -62,6 +59,7 @@ To get started with MAUI, follow the instructions in the [MAUI Get Started](http
 * [StateButton](https://github.com/IeuanWalker/Maui.StateButton) - [![GitHub issues](https://img.shields.io/github/issues/IeuanWalker/Maui.StateButton)](https://github.com/IeuanWalker/Maui.StateButton) [![GitHub stars](https://img.shields.io/github/stars/IeuanWalker/Maui.StateButton?style=flat-square)](https://github.com/IeuanWalker/Maui.StateButton/stargazers) ![last commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.StateButton?style=flat-square) -  With this control you are able to create any style of button. This is possible as it acts as a wrapper to your XAML and provides you the events/ commands and properties to bind too. It's also 100% accessible with each platform seeing/ treating the control as a native button.
 
 ## Sample Apps
+
 * [Starbucks Redesign](https://github.com/sattasundar/maui-starbucks-ui) [![GitHub issues](https://img.shields.io/github/issues/sattasundar/maui-starbucks-ui?style=flat-square)](https://github.com/sattasundar/maui-starbucks-ui) [![GitHub stars](https://img.shields.io/github/stars/sattasundar/maui-starbucks-ui?style=flat-square)](https://github.com/sattasundar/maui-starbucks-ui/stargazers) ![last commit](https://img.shields.io/github/last-commit/sattasundar/maui-starbucks-ui?style=flat-square) - A sample Starbucks redesign app using .NET MAUI features.
 * [MAUI Chat](https://github.com/matt-goldman/maui-chat) [![GitHub issues](https://img.shields.io/github/issues/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat) [![GitHub stars](https://img.shields.io/github/stars/matt-goldman/maui-chat?style=flat-square)](https://github.com/matt-goldman/maui-chat/stargazers) ![last commit](https://img.shields.io/github/last-commit/matt-goldman/maui-chat?style=flat-square) - A simple chat app using SignalR, MAUI and Blazor.
 * [Chat App](https://github.com/jsuarezruiz/netmaui-chat-app-challenge) [![GitHub issues](https://img.shields.io/github/issues/jsuarezruiz/netmaui-chat-app-challenge?style=flat-square)](https://github.com/jsuarezruiz/netmaui-chat-app-challenge) [![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/netmaui-chat-app-challenge?style=flat-square)](https://github.com/jsuarezruiz/netmaui-chat-app-challenge/stargazers) ![last commit](https://img.shields.io/github/last-commit/jsuarezruiz/netmaui-chat-app-challenge?style=flat-square) - Chat App UI Challenge made with .NET MAUI.
